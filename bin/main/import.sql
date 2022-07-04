@@ -1,0 +1,3 @@
+INSERT INTO users (name, email, password, created, modified, last_login, token, is_active) VALUES ('user', 'user@ey.com', 'ey123', '2022-06-28 00:00:01', '2022-06-28 00:00:01', '2022-06-28 00:00:01', 'token1234', 0);	
+INSERT INTO users (name, email, password, created, modified, last_login, token, is_active) VALUES ('user1', 'user1@ey.com', 'ey123', '2022-06-29 00:00:01', '2022-06-29 00:00:01', '2022-06-29 00:00:01', 'token12345', 0);
+INSERT INTO users (name, email, password, created, modified, last_login, token, is_active) VALUES ('user2', 'user2@ey.com', 'ey123', '2022-06-30 00:00:01', '2022-06-30 00:00:01', '2022-06-30 00:00:01', 'token12346', 0);
